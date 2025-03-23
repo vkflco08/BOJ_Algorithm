@@ -1,2 +1,24 @@
-# BOJ_Algorithm
-This is an auto push repository for Baekjoon Online Judge created with [BaekjoonHub](https://github.com/BaekjoonHub/BaekjoonHub).
+# 🚀 BOJ Algorithm Repository  
+
+이 저장소는 **[BaekjoonHub](https://github.com/BaekjoonHub/BaekjoonHub)**를 통해 **백준 온라인 저지(BOJ)** 문제 풀이 코드가 자동으로 업로드되도록 설정되었습니다.  
+알고리즘 문제 풀이 과정을 기록하고 관리하기 위해 생성되었습니다.  
+
+## 📌 Features  
+- ✅ 백준에서 제출한 코드가 자동으로 저장됨  
+- ✅ 알고리즘 문제 풀이 기록 관리  
+
+### 📌 문제 메타 정보  
+- **문제 제목**: 문제의 정식 명칭  
+- **문제 아이디**: 백준 문제 번호  
+- **문제 링크**: 해당 문제의 백준 사이트 링크  
+- **문제 등급**: 난이도 (Bronze, Silver, Gold 등)  
+- **문제 설명**: 문제의 간략한 설명  
+- **사용 언어**: 제출한 프로그래밍 언어  
+- **문제 분류**: 알고리즘 유형 (DP, 그래프, 그리디 등)  
+
+### 🔍 사용자 제출 정보  
+- **제출한 코드**: 사용자가 작성한 소스 코드  
+- **사용한 메모리**: 코드 실행 시 사용된 메모리 크기  
+- **실행 시간**: 코드 실행에 소요된 시간
+
+Happy Coding! 🚀  
