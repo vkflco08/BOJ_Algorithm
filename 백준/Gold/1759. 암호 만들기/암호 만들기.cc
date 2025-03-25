@@ -11,8 +11,8 @@ string result;
 
 bool isValid() {
     int vowel = 0, consonant = 0;
-    for (char c : tmpArr) {
-        if (c == 'a' || c == 'e' || c == 'i' || c == 'o' || c == 'u') vowel++;
+    for(int i = 0; i<L; i++){
+        if (tmpArr[i] == 'a' || tmpArr[i] == 'e' || tmpArr[i] == 'i' || tmpArr[i] == 'o' || tmpArr[i] == 'u') vowel++;
         else consonant++;
     }
     return (vowel >= 1 && consonant >= 2);
@@ -37,9 +37,6 @@ void algorithm(int index, int start) {
 
 int main() {
     cin >> L >> C;
-
-    vec.resize(C);
-    tmpArr.resize(L);
 
     for(int i = 0; i < C; i++){
         cin >> vec[i];
