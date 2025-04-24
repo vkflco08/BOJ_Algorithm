@@ -1,10 +1,10 @@
-# 🚀 BOJ Algorithm Repository  
+# 🚀 algorithm practce Repository  
 
-이 저장소는 **[BaekjoonHub](https://github.com/BaekjoonHub/BaekjoonHub)**를 통해 **백준 온라인 저지(BOJ)** 문제 풀이 코드가 자동으로 업로드되도록 설정되었습니다.  
+이 저장소는 알고리즘 문제 풀이 코드가 자동으로 업로드되도록 설정되었습니다.  
 알고리즘 문제 풀이 과정을 기록하고 관리하기 위해 생성되었습니다.  
 
 ## 📌 Features  
-- ✅ 백준에서 제출한 코드가 자동으로 저장됨  
+- ✅ 온라인 사이트에 제출한 코드가 자동으로 저장됨  
 - ✅ 알고리즘 문제 풀이 기록 관리  
 
 ### 📌 문제 메타 정보  
